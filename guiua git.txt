@@ -1,2 +1,3 @@
 cd Desktop
 git status
+git add .(todo) o archivo
